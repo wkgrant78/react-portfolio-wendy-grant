@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name": "Wendy Grant",
+    "occupation": "Don't have one yet",
+    "description": "Don't know what I'm doing",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Wendy, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "contactmessage": "If you have any questions or just want to leave a comment, drop me a line.",
+    "email": "WendyKGrant.TX@gmail.com",
+    "address": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/wendy.grant.712/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/wendy-grant-austin-tx",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sonnysangha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Houston",
+        "degree": "Bachelors of Science in Petroleum Engineering",
+        "graduated": "May 2016",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "University of Texas, Austin",
+        "degree": "Coding Boot Camp Certification Program",
+        "graduated": "December 2020",
+        "description": "Full Stack Developer"
+      }
+    ],
+    "work": [
+      {
+        "company": "M-I Swaco, a Schlumberger Company",
+        "title": "MPD Field Engineer II, Gulf of Mexico",
+        "years": "January 2019 - May 2020",
+        "description": "Managed Pressure Drilling project design and management field engineer for Shell Offshore Inc., drilling programs."
+      },
+      {
+        "company": "Schlumberger",
+        "title": "MWD Field Engineer II",
+        "years": "June 2016 - October 2018",
+        "description": "Drilling and Measurements - High Volume project design and management field engineer."
+      },
+      {
+        "company": "Tracerco",
+        "title": "Reservoir Technologist Intern",
+        "years": "June 2014 - August 2014",
+        "description": "Reservoir data analyst for oil and natural gas exploration and production projects."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "jQuery",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "85%"
+      },
+      {
+        "name": "Express.js",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  }
+}
