@@ -17,7 +17,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            {/* <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" /> */}
+            {/* <img className="profile-pic"  src={profilepic} alt="Wendy Grant Profile Pic" /> */}
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -27,8 +27,8 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span><br />
+						   <span>{name}</span>
+						   <span>
 						         {city} {state}
                    </span><br />
                      <span>{email}</span>

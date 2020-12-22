@@ -3,8 +3,8 @@
     "name": "Wendy Grant",
     "occupation": "Don't have one yet",
     "description": "Don't know what I'm doing",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Wendy, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "image": "https://picsum.photos/200/300?random=2",
+    "bio": "My name is Wendy, I'm a freshly certified Full Stack ReactJS Developer. Currently I'm searching for a new adventure in the coding world. I worked in the oil and gas industry since 2016, until May of 2020, but have been given an opportunity to see what else is out there.",
     "contactmessage": "If you have any questions or just want to leave a comment, drop me a line.",
     "email": "WendyKGrant.TX@gmail.com",
     "address": {
@@ -14,7 +14,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/wendy.grant.712/",
+        "url": "https://www.facebook.com/wendy.grant.712",
         "className": "fa fa-facebook"
       },
       {
@@ -24,7 +24,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/wkgrant78",
         "className": "fa fa-github"
       }
     ]
@@ -68,19 +68,19 @@
     "skills": [
       {
         "name": "JavaScript",
-        "level": "85%"
+        "level": "65%"
       },
       {
         "name": "HTML5",
-        "level": "95%"
+        "level": "80%"
       },
       {
         "name": "CSS3",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "jQuery",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Bootstrap",
@@ -88,11 +88,11 @@
       },
       {
         "name": "Node.js",
-        "level": "75%"
+        "level": "65%"
       },
       {
         "name": "Git",
-        "level": "85%"
+        "level": "80%"
       },
       {
         "name": "MySQL",
@@ -100,15 +100,15 @@
       },
       {
         "name": "MongoDB",
-        "level": "85%"
+        "level": "75%"
       },
       {
         "name": "Express.js",
-        "level": "80%"
+        "level": "65%"
       },
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "60%"
       }
     ]
   },
