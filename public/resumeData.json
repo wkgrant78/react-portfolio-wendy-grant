@@ -68,47 +68,47 @@
     "skills": [
       {
         "name": "JavaScript",
-        "level": "65%"
+        "level": "40%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "55%"
       },
       {
         "name": "CSS3",
-        "level": "90%"
-      },
-      {
-        "name": "jQuery",
-        "level": "70%"
-      },
-      {
-        "name": "Bootstrap",
-        "level": "90%"
-      },
-      {
-        "name": "Node.js",
-        "level": "65%"
-      },
-      {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "MySQL",
-        "level": "60%"
-      },
-      {
-        "name": "MongoDB",
         "level": "75%"
       },
       {
+        "name": "jQuery",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "55%"
+      },
+      {
+        "name": "Node.js",
+        "level": "45%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "40%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "45%"
+      },
+      {
         "name": "Express.js",
-        "level": "65%"
+        "level": "45%"
       },
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "35%"
       }
     ]
   },
@@ -143,6 +143,26 @@
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very polished user interface! Very smooth. Good job on providing a list of options and values for user to select. I was able to add department/role/employees with no problem, without the seed data too! Very well documented readme. Overall, excellent job! Keep it up!",
+        "user": "UT Boot Camp Central Grader"
+      },
+      {
+        "text": "Absolutely wonderful job with the assignment. Solid code, solid commit history, solid walkthrough, you should be proud.",
+        "user": "Christian Henry - UT Boot Camp TA"
+      },
+      {
+        "text": "Excellent job on the assignment, Wendy! Your demo was awesome! Your code was very clean and well structured, keep this up in future projects. Great effort, keep it up!",
+        "user": "UT Boot Camp Central Grader"
+      },
+      {
+        "text": "Great job on this assignment. It functions perfectly and the repository looks really professional.",
+        "user": "Hunter Wilkins - UT Boot Camp TA"
       }
     ]
   }
