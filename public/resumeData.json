@@ -33,16 +33,16 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
+        "school": "University of Texas, Austin",
+        "degree": "Coding Boot Camp Certification Program",
+        "graduated": "December 2020",
+        "description": "Full Stack Developer Boot Camp"
+      },
+      {
         "school": "University of Houston",
         "degree": "Bachelors of Science in Petroleum Engineering",
         "graduated": "May 2016",
         "description": "Graduated with Distinction"
-      },
-      {
-        "school": "University of Texas, Austin",
-        "degree": "Coding Boot Camp Certification Program",
-        "graduated": "December 2020",
-        "description": "Full Stack Developer"
       }
     ],
     "work": [
@@ -115,22 +115,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Employee Tracker",
+        "category": "A Content Management Systems interface (NodeJS, InquirerJS, MySQL.",
+        "image": "employeeTracker.gif",
+        "url": "https://github.com/wkgrant78/EmployeeTracker"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "CodeTube: Learn HTML",
+        "category": "App to access online video tutorials to learn HTML for the first time (ExpressJS, SequelizeJS, NodeJS, MySQL)",
+        "image": "code-tube.png",
+        "url": "https://codetube-p2.herokuapp.com/"
       },
       {
-        "title": "Facebook Clone with React",
+        "title": "CodeTube: Learn HTML",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://express-your-notes.herokuapp.com/"
       },
       {
         "title": "Airbnb Clone",
