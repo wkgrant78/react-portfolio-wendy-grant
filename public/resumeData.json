@@ -127,22 +127,16 @@
         "url": "https://codetube-p2.herokuapp.com/"
       },
       {
-        "title": "CodeTube: Learn HTML",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
+        "title": "Express Note Tacker",
+        "category": "App developed using Express backend",
+        "image": "note-taker.png",
         "url": "https://express-your-notes.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Quick Fitness Tracker",
+        "category": "Fitness tracker developed using the CRUD model",
+        "image": "quick-fit.png",
+        "url": "https://quick-fit-tracker.herokuapp.com/"
       }
     ]
   },
