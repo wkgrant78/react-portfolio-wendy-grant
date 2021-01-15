@@ -28,8 +28,8 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span>
-						   <span>
-						         {city} {state}
+						   <span><br />
+						   {city} {state}
                    </span><br />
                      <span>{email}</span>
 					   </p>

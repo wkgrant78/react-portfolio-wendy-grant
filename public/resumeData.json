@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Wendy Grant",
-    "occupation": "Don't have one yet",
-    "description": "Don't know what I'm doing",
+    "occupation": "full stack developer",
+    "description": "who has a passion for the complexity of story telling in the form of UX/UI design",
     "image": "https://picsum.photos/200/300?random=2",
-    "bio": "My name is Wendy, I'm a freshly certified Full Stack ReactJS Developer. Currently I'm searching for a new adventure in the coding world. I worked in the oil and gas industry since 2016, until May of 2020, but have been given an opportunity to see what else is out there.",
+    "bio": "I'm a Full Stack Web Developer and engineer who can merge analytical skills with creativity to deliver a client-centric product. Has a strong passion for humanizing technology and creating impactful solutions, focusing on inclusive designs. Excels at communicating and has a reputation for having an infectious personality that motivates and drives morale in high pressure situations.",
     "contactmessage": "If you have any questions or just want to leave a comment, drop me a line.",
     "email": "WendyKGrant.TX@gmail.com",
     "address": {
@@ -147,7 +147,7 @@
         "user": "UT Boot Camp Central Grader"
       },
       {
-        "text": "Absolutely wonderful job with the assignment. Solid code, solid commit history, solid walkthrough, you should be proud.",
+        "text": "Absolutely wonderful job with the project. Solid code, solid commit history, solid walkthrough, you should be proud.",
         "user": "Christian Henry - UT Boot Camp TA"
       },
       {
