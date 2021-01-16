@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/gradient_by_ktwilson.jpg) no-repeat top center;
+   background: #161415 url(../images/popular-abstract-background-shining-blue-dust-particles-stars-sparks_75775-385.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -52,8 +52,10 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
+   padding-top: 30px;
    text-align: center;
+   background-color: rgba(0, 0, 0, 0.123);
+   border-radius: 2px;
 }
 
 header .banner-text { width: 100%; }
@@ -651,10 +653,11 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/abstract-1780323_1920.png) no-repeat center center;
+   background: #1f1f1f38 url(../images/abstract7.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
+   
 
    position: relative;
    min-height: 200px;
@@ -681,7 +684,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: white;
 }
 
 /*	Blockquotes */
@@ -693,7 +696,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'librebaskerville', sans-serif;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
@@ -800,7 +803,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: rgba(17, 1, 16, 0.479);
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
