@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/popular-abstract-background-shining-blue-dust-particles-stars-sparks_75775-385.jpg) no-repeat top center;
+   background: #161415 url(../images/shining-blue-dust-particles-stars-sparks_75775-385.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -97,7 +97,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #0b8c91; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -142,7 +142,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: rgb(44, 96, 120); }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
