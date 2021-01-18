@@ -5,9 +5,9 @@
     "description": "who has a passion for the complexity of story telling in the form of UX/UI design",
     "image": "https://picsum.photos/200/300?random=2",
     "bio": "I'm a Full Stack Web Developer and engineer who can merge analytical skills with creativity to deliver a client-centric product. Has a strong passion for humanizing technology and creating impactful solutions, focusing on inclusive designs. Excels at communicating and has a reputation for having an infectious personality that motivates and drives morale in high pressure situations.",
-    "contactmessage": "If you have any questions or just want to leave a comment, drop me a line.",
+    "contactmessage": "If you have any questions or just want to share a comment, drop me a line.",
     "email": "WendyKGrant.TX@gmail.com",
-    "phone": "+1 713-206--6138",
+    "phone": "+1 713-206-6138",
     "address": {
       "city": "Austin",
       "state": "TX"
@@ -37,7 +37,7 @@
         "school": "University of Texas, Austin",
         "degree": "Coding Boot Camp Certification Program",
         "graduated": "December 2020",
-        "description": "Full Stack Developer Boot Camp"
+        "description": "Full Stack Development Boot Camp, focusing on Computer Science applied to JavaScript, Browser-Based Technologies, Deployment, Databases, Server Side Development, and Quality Assurance."
       },
       {
         "school": "University of Houston",

@@ -810,7 +810,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #6311b0; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -871,7 +871,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: 17, 1, 16, 0.2;
 }
 #contact button.submit {
 	text-transform: uppercase;
