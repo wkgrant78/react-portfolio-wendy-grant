@@ -30,3 +30,5 @@ HTML Design Template
 
 ## License
 MIT © Wendy Grant
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/969bbf23-0bd4-4821-8b0e-6adfccf7d20f/deploy-status)](https://app.netlify.com/sites/wendygrantfsdev/deploys)
