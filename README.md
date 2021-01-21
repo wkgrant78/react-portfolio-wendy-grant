@@ -16,11 +16,11 @@ My portfolio showcases a few of the applications I built while earning my Full S
 1.0 - First of many! A programmer's skills and knowledge are ever evolving, so must their portfolio.
 
 ### Deployed Application
-"https://wendygrant-fsdev.netlify.app/"
+https://wendygrant-fsdev.netlify.app/
 
 ### Questions
 Follow me on GitHub: <a href="https://github.com/wkgrant78" target="_blank"><br>![GitHub followers](https://img.shields.io/github/followers/wkgrant78?label=wkgrant78&style=social)</a></br>
-<span></span>
+
 Ask me anything: WendyKGrant.TX@gmail.com <a href="https://www.gmail.com" target="_blank"><br>![open Gmail](https://img.shields.io/badge/open-Gmail-red?style=for-the-badge)</a> 
 
 ### Contributors
