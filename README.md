@@ -19,11 +19,14 @@ My portfolio showcases a few of the applications I built while earning my Full S
 
 
 ## Questions
-Follow me on GitHub: <a href="https://github.com/wkgrant78" target="_blank">![GitHub followers](https://img.shields.io/github/followers/wkgrant78?label=wkgrant78&style=social)</a></br>
-Ask me anything: WendyKGrant.TX@gmail.com <a href="https://www.gmail.com" target="_blank">![open Gmail](https://img.shields.io/badge/open-Gmail-red?style=for-the-badge)</a> 
+Follow me on GitHub: <a href="https://github.com/wkgrant78" target="_blank"><br>![GitHub followers](https://img.shields.io/github/followers/wkgrant78?label=wkgrant78&style=social)</a></br>
+Ask me anything: WendyKGrant.TX@gmail.com <a href="https://www.gmail.com" target="_blank"><br>![open Gmail](https://img.shields.io/badge/open-Gmail-red?style=for-the-badge)</a> 
 
 ## Contributors
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a
+All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
+
+HTML Design Template
+<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
 
 ## License
 MIT © Wendy Grant
