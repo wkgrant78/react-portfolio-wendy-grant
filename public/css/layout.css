@@ -142,7 +142,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: rgb(44, 96, 120); }
+.opaque { background-color: rgb(4, 107, 114); }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -803,7 +803,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: rgba(17, 1, 16, 0.479);
+   background: rgb(27, 48, 57);
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -858,8 +858,8 @@ call-to-action .button {
 #contact textarea,
 #contact select {
    padding: 18px 20px;
-	color: #eee;
-	background: #373233;
+	color: rgb(27, 48, 57);
+	opacity: 10;
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
